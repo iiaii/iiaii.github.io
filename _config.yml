@@ -1,13 +1,13 @@
 # 사이드
 lang:                  ko
 title:                 최정헌
-description:           백엔드 
+description:           Java 백엔드 엔지니어
 copyright:             © 2021. All rights reserved.
 
 
 menu:
-  - title: Resume
-    url:   /resume/
+#  - title: Resume
+#    url:   /resume/
 
 
 author:
