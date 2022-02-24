@@ -1,11 +1,33 @@
+# 사이드
 lang:                  ko
 title:                 최정헌
 description:           설명
 copyright:             © 2021. All rights reserved.
 
+
+menu:
+#  - title: Blog
+#    url:   https://iiaii.tistory.com/
+
+
+author:
+  name:  최정헌
+  picture:  /assets/img/me.png
+  social:
+    email: jhun9409@gmail.com
+    github: https://github.com/iiaii
+    rss: https://iiaii.tistory.com/
+    
+plugins:
+  - jekyll-avatar
+
+
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
 theme_color:           rgb(25,55,71)
+
+
+# 설정
 
 google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 font:                  Noto Sans, Helvetica, Arial, sans-serif
@@ -79,12 +101,3 @@ remote_theme : hydecorp/hydejack
 url                      : "https://iiaii.github.io"
 baseurl                  : ""
 
-author:
-  name:  최정헌
-  picture:  /assets/img/me.png
-  social:
-    email: jhun9409@gmail.com
-    github: "https://github.com/iiaii"
-    
-plugins:
-  - jekyll-avatar
