@@ -87,6 +87,8 @@ author:
     Hi, I'm Florian or @qwtel...
 
     This is another paragraph.
-    
+    |
+  social:
+    github: "https://github.com/iiaii"
 plugins:
   - jekyll-avatar
