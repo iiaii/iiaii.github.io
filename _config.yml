@@ -81,14 +81,10 @@ baseurl                  : ""
 
 author:
   name:  최정헌
-  email: jhun9409@gmail.com
   picture:  /assets/img/me.jpg
-  about: |
-    Hi, I'm Florian or @qwtel...
-
-    This is another paragraph.
-    |
   social:
+    email: jhun9409@gmail.com
     github: "https://github.com/iiaii"
+    
 plugins:
   - jekyll-avatar
