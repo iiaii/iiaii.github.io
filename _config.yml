@@ -1,6 +1,5 @@
 lang:                  ko
 title:                 최정헌
-name:                  name
 description:           설명
 copyright:             © 2021. All rights reserved.
 
@@ -80,18 +79,13 @@ remote_theme : hydecorp/hydejack
 url                      : "https://iiaii.github.io"
 baseurl                  : ""
 
-
 author:
-  name             : "name 이름"
-  avatar           : "/assets/images/bio-photo-keyboard.jpg"
-  bio              : "bio 바이오"
-  location         : "South Korea"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jhun9409@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://iiaii.tistory.com"
-      
+  name:  최정헌
+  email: jhun9409@gmail.com
+  about: |
+    Hi, I'm Florian or @qwtel...
+
+    This is another paragraph.
+    
+plugins:
+  - jekyll-avatar
