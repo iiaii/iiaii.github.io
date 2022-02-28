@@ -38,4 +38,17 @@ You can add a note.
 
 You can add a note.
 {:.note}
+
+
+<div class="pull-left">
+왼쪽 단에
+글 조금 쓰기
+</div>
+<div class="pull-right">
+오른쪽 단에도
+글 조금만 쓰기
+</div>
+&#128523; 가운데로 먹어들어감. 냠냠. &#128523;
+
+
 ---
